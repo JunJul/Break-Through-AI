@@ -13,6 +13,6 @@
 ### Unit4: [Logistic Regression and Linear Regression](https://github.com/JunJul/Break-Through-Tech-AI/tree/Master/Unit4%20Train%20a%20Linear%20Model)
 ### Unit5: [Evaluations: Evaluation Metrics, Model Selection, Feature Selection](https://github.com/JunJul/Break-Through-Tech-AI/tree/Master/Unit5%20Evaluate%20and%20Deploy%20Your%20Model)
 ### Unit6: [Ensemble Models: Random Forest, Gradient Boosting, Stacking](https://github.com/JunJul/Break-Through-Tech-AI/tree/Master/Unit6%20Ensemble%20Methods%20and%20Unsupervised%20Learning)
-### Unit7: [Neural Network andComputer Vision](https://github.com/JunJul/Break-Through-Tech-AI/tree/Master/Unit7%20Deep%20Learning%20and%20Computer%20Vision)
+### Unit7: [Neural Network and Computer Vision](https://github.com/JunJul/Break-Through-Tech-AI/tree/Master/Unit7%20Deep%20Learning%20and%20Computer%20Vision)
 ### Unit8: [Natural Language Processing](https://github.com/JunJul/Break-Through-Tech-AI/tree/Master/Unit8%20Deep%20Learning%20and%20Natural%20Language%20Processing)
 ### Unit9: Model Failure modes: imbalance classes, feature leakage, execution bottlenecks, and Concept drift
